@@ -1,0 +1,2 @@
+# Django AI Project package
+
